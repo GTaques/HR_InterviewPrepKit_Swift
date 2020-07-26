@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Jumping on the Clouds'/>
+        <page name='Sock Merchant'/>
+        <page name='RepeatedString'/>
+        <page name='Arrays Left Rotation'/>
+        <page name='2D Array - DS'/>
+    </pages>
+</playground>
